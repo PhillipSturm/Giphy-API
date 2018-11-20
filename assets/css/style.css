@@ -18,6 +18,10 @@ body{
     border-top-right-radius: 0px;
 }
 
+p{
+    color: white;
+}
+
 #gifButtonsView{
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
