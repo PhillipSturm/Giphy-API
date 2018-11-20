@@ -1,6 +1,5 @@
 $( document ).ready(function() {
-    // An array of actions, new actions will be pushed into this array;
-    var actions = ["baseball", "football", "basketball", "snowboarding", "wrestling", "ufc", "rock climbing", "parkour", "martial arts", "nfl"];
+    var actions = ["baseball", "football", "basketball", "snowboarding", "dive", "ufc", "rock climbing", "parkour", "martial arts", "nfl", "surf"];
     // Creating Functions & Methods
     // Function that displays all gif buttons
     function displayGifButtons(){
