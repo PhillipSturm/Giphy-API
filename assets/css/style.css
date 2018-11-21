@@ -21,6 +21,9 @@ body{
 p{
     color: white;
 }
+h1 {
+    text-align: center;
+}
 
 #gifButtonsView{
     border-top-left-radius: 25px;
